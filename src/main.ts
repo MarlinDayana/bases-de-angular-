@@ -10,3 +10,9 @@ if (environment.production) {
 
 platformBrowserDynamic().bootstrapModule(AppModule)
   .catch(err => console.error(err));
+
+
+
+
+
+  // codigo fuente - va aqui - https://github.com/Klerith/angular-basicos/tree/v0.1.0
